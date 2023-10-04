@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPAccessModifiers_0", "OOPAccessModifiers_0\OOPAccessModifiers_0.csproj", "{12A938AA-8459-446F-AE28-BDBF78A2C516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPIkinciProjemiz", "OOPIkinciProjemiz\OOPIkinciProjemiz.csproj", "{DCC724EF-E348-4605-BC02-4DB621464822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12A938AA-8459-446F-AE28-BDBF78A2C516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A938AA-8459-446F-AE28-BDBF78A2C516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A938AA-8459-446F-AE28-BDBF78A2C516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A938AA-8459-446F-AE28-BDBF78A2C516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC724EF-E348-4605-BC02-4DB621464822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC724EF-E348-4605-BC02-4DB621464822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC724EF-E348-4605-BC02-4DB621464822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC724EF-E348-4605-BC02-4DB621464822}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5156EFF3-5BD5-4406-A005-50AB601D5EEF}
+	EndGlobalSection
+EndGlobal
